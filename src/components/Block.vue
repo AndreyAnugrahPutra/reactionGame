@@ -42,7 +42,7 @@ export default {
 <style>
 .block
 {
-    width: 400px;
+    width: 200px;
     border-radius: 20px;
     background-color: #20caa5;
     color: #fff;
